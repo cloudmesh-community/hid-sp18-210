@@ -1,0 +1,30 @@
+name,epIntro,epDied,affiliation,status,epAlive,relevance,gender
+Tyrion Lannister,1,67,-1,3,67,3,1
+Jaime Lannister,1,67,-1,3,67,3,1
+Cersei Lannister,1,67,-1,3,67,3,2
+Daenerys Targaryen,1,67,1,3,67,3,2
+Jon Snow,1,67,1,3,67,3,1
+Davos Seaworth,11,67,1,2,57,2,1
+Sansa Stark,1,67,1,3,67,3,2
+Arya Stark,1,67,1,3,67,3,2
+Melisandre,11,67,0,2,57,2,2
+Theon Greyjoy,1,67,1,2,67,3,1
+Missandei,21,67,1,2,47,2,2
+Brienne of Tarth,13,67,1,2,55,2,2
+Samwell Tarly,4,67,1,2,64,2,1
+Bran Stark,1,67,1,3,67,3,1
+Gilly,11,67,1,1,57,2,2
+Gendry,4,67,1,2,64,2,1
+Tormund,21,67,1,1,47,2,1
+Sandor Clegane,1,67,0,2,67,2,1
+Jorah Mormont,1,67,1,2,67,2,1
+Grey Worm,25,67,1,2,43,2,1
+Euron Greyjoy,52,67,-1,3,16,2,1
+Gregor Clegane,4,67,-1,2,64,2,1
+Eddison Tollett,11,67,1,2,57,2,1
+Tycho Nestoris,36,67,0,3,32,2,1
+Ned Umber,61,67,1,2,7,2,1
+Alys Karstark,61,67,1,2,7,2,2
+Podrick Payne,12,67,-1,2,56,2,1
+Yohn Royce,38,67,1,2,30,2,1
+Yara Greyjoy,12,67,1,2,56,2,2

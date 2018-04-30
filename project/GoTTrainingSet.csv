@@ -1,0 +1,200 @@
+name,epIntro,epDied,affiliation,status,epAlive,relevance,gender,order
+Waymar Royce,1,1,1,1,1,1,1,1
+Gared,1,1,1,1,1,1,1,2
+Will,1,1,1,1,1,1,1,3
+Jon Arryn,1,1,-1,3,1,1,1,4
+Assassin,2,2,-1,1,1,1,1,5
+Mycah,2,2,-1,1,1,1,1,6
+Ser Hugh,4,4,1,2,1,1,1,7
+Kurleket,4,5,1,2,2,1,1,8
+Willis Wode,4,5,1,2,2,1,1,9
+Wyl,5,5,1,2,1,1,1,10
+Heward,5,5,1,2,1,1,1,11
+Jory Cassel,1,5,1,2,5,2,1,12
+Wallen,6,6,0,1,1,1,1,13
+Stiv,6,6,0,1,1,1,1,14
+Vardis Egen,5,6,1,2,2,1,1,15
+Viserys Targaryen,1,6,1,3,6,3,1,16
+Wine Seller,7,7,-1,1,1,1,1,17
+Robert Baratheon,1,7,-1,3,7,3,1,18
+Vayon Poole,8,8,1,1,1,1,1,19
+Mordane,1,8,1,1,8,1,2,20
+Syrio Forel,3,8,1,2,6,1,1,21
+Stableboy,8,8,-1,1,1,1,1,22
+Mago,1,8,1,2,8,1,1,23
+Othor,8,8,0,1,1,1,1,24
+Qotho,1,9,1,2,9,2,1,25
+Eddard Stark,1,9,1,3,9,3,1,26
+Khal Drogo,1,10,1,3,10,3,1,27
+Mirri Maz Duur,8,10,1,1,3,1,2,28
+Maester Cressen,11,11,0,2,1,1,1,29
+Barra,5,11,-1,1,7,1,2,30
+Rahkaro,3,12,1,2,10,2,1,31
+Yoren,3,13,1,1,11,2,1,32
+Lommy,10,13,1,1,4,2,1,33
+Rennick,14,14,-1,2,1,1,1,34
+Lannister Guardsmen,14,14,-1,2,1,1,1,35
+Tortured Prisoner,14,14,0,1,1,1,1,36
+Renly Baratheon,3,15,1,3,13,3,1,37
+Emmon Cuy,15,15,-1,2,1,1,1,38
+Robar Royce,15,15,-1,2,1,1,1,39
+The Tickler,14,15,-1,1,2,1,1,40
+Rodrik Cassel,1,16,1,3,16,2,1,41
+The High Septon,9,16,-1,3,8,1,1,42
+Armory Lorch,13,16,-1,2,4,1,1,43
+Drennan,16,16,1,1,1,1,1,44
+Irri,2,16,1,2,15,2,2,45
+Alton Lannister,11,17,-1,2,7,1,1,46
+Torrhen Karstark,17,17,1,2,1,1,1,47
+Eleven of the Thirteen,17,17,0,2,1,1,1,48
+Billy,17,17,1,1,1,1,1,49
+Jack,17,17,1,1,1,1,1,50
+Stonesnake,15,18,1,1,4,1,1,51
+Harker,15,18,1,1,4,1,1,52
+Borba,15,18,1,1,4,1,1,53
+Matthos Seaworth,11,19,1,2,9,2,1,54
+Mandon Moore,7,19,-1,2,13,1,1,55
+Tom,20,20,1,2,1,1,1,56
+Maester Luwin,1,20,1,2,20,2,1,57
+Pyat Pree,14,20,0,2,7,2,1,58
+Qhorin,15,20,1,2,6,2,1,59
+Doreah,2,20,1,2,19,2,2,60
+Xaro Xhoan Daxos,14,20,0,3,7,2,1,61
+Hoster Tully,4,22,1,3,19,1,1,62
+Master Torturer,22,23,0,1,2,1,1,63
+Bannen,24,24,1,1,1,1,1,64
+Craster,11,24,0,1,14,2,1,65
+Jeor Mormont,3,24,1,3,22,2,1,66
+Krazyns mo Nakloz,24,24,0,3,1,1,1,67
+Willen Lannister,23,25,-1,2,3,1,1,68
+Martyn Lannister,23,25,-1,2,3,1,1,69
+Richard Karstark,10,25,1,3,16,2,1,70
+Ros,1,26,1,2,26,2,2,71
+Mero,28,28,0,2,1,1,1,72
+Prendakl na Ghezn,28,28,0,2,1,1,1,73
+White Walker,20,28,0,1,9,1,1,74
+Old Man,29,29,1,1,1,1,1,75
+Orell,22,29,0,1,8,2,1,76
+Talisa Stark,14,29,1,2,16,3,2,77
+Robb Stark,1,29,1,3,29,3,1,78
+Joyeuse Erenford,9,29,-1,2,21,1,1,79
+Catelyn Stark,1,29,1,3,29,3,2,80
+Frey Soldier,30,30,-1,2,1,1,1,81
+Iowell,31,31,0,1,1,1,1,82
+Polliver,13,31,0,1,19,1,1,83
+Tansy,32,32,0,1,1,1,2,84
+Axell Florent,32,32,0,1,1,1,1,85
+Joffrey Baratheon,1,32,-1,3,32,3,1,86
+Dontos Hollar,11,33,1,1,23,2,1,87
+Guymon,33,33,0,1,1,1,1,88
+Olly's Mother,33,33,0,1,1,1,2,89
+Oznak zo Pahl,33,33,0,2,1,1,1,90
+Great Master,33,34,0,3,2,1,1,91
+Locke,22,35,0,2,14,2,1,92
+Karl Tanner,23,35,0,1,13,2,1,93
+Rast,2,35,0,1,34,2,1,94
+Dying Man,37,37,0,1,1,1,1,95
+Biter,37,37,0,1,1,1,1,96
+Rorge,10,37,0,2,28,1,1,97
+Lysa Arryn,5,37,1,3,33,2,2,98
+Mole's Town wench,33,38,0,1,6,1,2,99
+Ralf Kenning,38,38,0,1,1,1,1,100
+Adrack Humble,38,38,0,1,1,1,1,101
+Oberyn Martell,31,38,-1,3,8,3,1,102
+Pypar,3,39,1,2,37,2,1,103
+Thenn warg,31,39,0,1,9,2,1,104
+Dongo,21,39,0,1,19,1,1,105
+Smitty,39,39,0,1,1,1,1,106
+Styr,31,39,0,1,9,2,1,107
+Ygritte,16,39,1,1,24,3,2,108
+Mag Mar Tun Doh Weg,39,39,1,1,1,1,1,109
+Grenn ,3,39,1,1,37,2,1,110
+Cooper,39,39,1,1,1,1,1,111
+Done Hill,39,39,1,1,1,1,1,112
+Zalla,40,40,0,1,1,1,1,113
+Jojen Reed,22,40,1,2,19,2,1,114
+Shae,9,40,-1,2,32,3,2,115
+Tywin Lannister,7,40,-1,3,34,3,1,116
+White Rat,41,41,1,2,1,1,1,117
+Mance Rayder,21,41,1,2,21,2,1,118
+Son of Harpy,42,42,0,1,1,1,1,119
+Mossador,34,42,0,1,9,2,1,120
+Janos Slynt,4,43,-1,2,40,2,1,121
+Lead Dornish Guard,44,44,0,2,1,1,1,122
+Merchant Captain,44,44,0,2,1,1,1,123
+Ser Barristan Selmy,3,44,1,2,42,2,1,124
+Great Master 2,45,45,0,2,1,1,1,125
+Ghita,46,46,0,1,1,1,2,126
+Maester Aemon,3,47,1,3,45,2,1,127
+Old Woman,43,47,0,1,5,1,2,128
+Lord of Bones,18,48,0,2,31,2,1,129
+Loboda,48,48,0,1,1,1,1,130
+White Walker,48,48,0,2,1,1,1,131
+Karsi,48,48,0,2,1,1,2,132
+Shireen Baratheon,25,49,1,3,25,2,2,133
+Hizdahr zo Loraq,33,49,1,3,17,2,1,134
+Selyse Baratheon,11,50,1,3,40,2,2,135
+Stannis Baratheon,11,50,1,3,40,3,1,136
+Myranda,27,50,0,2,24,2,2,137
+Meryn Trant,8,50,-1,2,43,2,1,138
+Myrcella Baratheon,1,50,-1,3,50,2,2,139
+Bolton Officer,51,51,0,2,1,1,1,140
+Areo Hotah,42,51,0,2,10,2,1,141
+Doran Martell,42,51,0,3,10,2,1,142
+Maester Caleotte,51,51,0,2,1,1,1,143
+Trystane Martell,42,51,0,3,10,2,1,144
+King's Landing boaster,52,52,0,1,1,1,1,145
+Roose Bolton,14,52,0,3,39,2,1,146
+Walda Bolton,32,52,0,3,21,1,2,147
+Newborn Bolton,52,52,0,3,1,1,1,148
+Balon Greyjoy,12,52,0,3,41,2,1,149
+Bowen Marsh,41,53,1,1,13,1,1,150
+Othell Yarwyck,7,53,1,1,47,1,1,151
+Allister Thorne,3,53,1,2,51,2,1,152
+Olly,33,53,1,1,21,2,1,153
+Iggo,54,54,0,1,1,1,1,154
+Akho,51,54,0,1,4,1,1,155
+Osha,6,54,1,1,49,2,2,156
+Moro,51,54,0,2,4,2,1,157
+White Walker,55,55,0,2,1,1,1,158
+Three-eyed Raven,4,55,1,2,52,2,1,159
+Leaf,40,55,1,1,16,1,2,160
+Hodor,1,55,1,2,55,2,1,161
+Brother Ray,57,57,0,1,1,1,1,162
+Steve,58,58,0,1,1,1,1,163
+Riddel,58,58,0,1,1,1,1,164
+Morgan,57,58,0,1,2,1,1,165
+Gatins,57,58,0,1,2,1,1,166
+Faith Militant,58,58,-1,1,1,1,1,167
+Brynden Tully,23,58,1,3,36,2,1,168
+Outlaw,58,58,0,1,1,1,1,169
+Lem Lemoncloak,57,58,0,1,2,1,1,170
+Outlaw,58,58,0,1,1,1,1,171
+Lady Crane,55,58,1,2,4,2,2,172
+The Waif,43,58,0,2,16,2,2,173
+Belicho Paenymion,54,59,0,1,6,1,1,174
+Razdal mo Eraz,27,59,0,3,33,2,1,175
+Rickon Stark,1,59,1,3,59,2,1,176
+Smalljon Umber,53,59,1,3,7,2,1,177
+Wun Weg Wun Dar Wun,48,59,1,2,12,2,1,178
+Ramsay Bolton,22,59,0,3,38,3,1,179
+Grand Maester Pycelle,3,60,-1,3,58,2,1,180
+Lancel Lannister,3,60,-1,3,58,2,1,181
+High Sparrow,43,60,0,2,18,3,1,182
+Margaery Tyrell,13,60,-1,3,48,3,2,183
+Loras Tyrell,5,60,-1,3,56,2,1,184
+Mace Tyrell,32,60,-1,3,29,2,1,185
+Kevan Lannister,8,60,-1,3,53,2,1,186
+Tommen Baratheon,1,60,-1,3,60,3,1,187
+Walder Rivers,26,60,-1,2,35,1,1,188
+Lothar Frey,26,60,-1,2,35,1,1,189
+Walder Frey,9,60,-1,3,52,2,1,190
+Obara Sand,44,62,0,2,19,2,2,191
+Nymeria Sand,44,62,0,2,19,2,2,192
+Tyene Sand,44,63,0,2,20,2,2,193
+Olenna Tyrell,22,63,0,3,42,3,2,194
+Randyll Tarly,56,65,2,3,10,2,1,195
+Dickon Tarly,56,65,2,3,10,2,1,196
+Thoros of  Myr,22,66,1,2,45,2,1,197
+Benjen Stark,1,66,1,3,66,2,1,198
+Petyr Baelish,3,67,1,3,65,3,1,199
